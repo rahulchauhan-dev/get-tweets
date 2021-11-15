@@ -1,0 +1,29 @@
+
+#head{
+  color: #1DA1F2;
+  font-size: 3rem;
+  font-weight: bolder;
+
+
+}
+
+#btn{
+  color: #1DA1F2;
+  background-color: white;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  font-weight: bold;
+}
+
+#intro{
+  color: gray;
+}
+.cover-container {
+  max-width: 42em;
+}
+
+a{
+  text-decoration: none;
+  color: gray;
+
+}
